@@ -81,7 +81,7 @@ namespace a2OEC.Controllers
             {
                 return NotFound();
             }
-            ViewData["CountryCode"] = new SelectList(_context.Country, "CountryCode", "CountryCode", province.CountryCode);
+            ViewData["CountryCode"] = new SelectList(_context.Country.OrderBy(p =>p.Name), "CountryCode", "CountryCode", province.CountryCode);
             return View(province);
         }
 
