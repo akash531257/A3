@@ -1,0 +1,60 @@
+I:\ASP.NET.MVC\Assignments\a1OEC\a1OEC\bin\Debug\netcoreapp2.0\a2OEC.deps.json
+I:\ASP.NET.MVC\Assignments\a1OEC\a1OEC\bin\Debug\netcoreapp2.0\a2OEC.runtimeconfig.json
+I:\ASP.NET.MVC\Assignments\a1OEC\a1OEC\bin\Debug\netcoreapp2.0\a2OEC.runtimeconfig.dev.json
+I:\ASP.NET.MVC\Assignments\a1OEC\a1OEC\bin\Debug\netcoreapp2.0\a2OEC.dll
+I:\ASP.NET.MVC\Assignments\a1OEC\a1OEC\bin\Debug\netcoreapp2.0\a2OEC.pdb
+I:\ASP.NET.MVC\Assignments\a1OEC\a1OEC\obj\Debug\netcoreapp2.0\a2OEC.csprojResolveAssemblyReference.cache
+I:\ASP.NET.MVC\Assignments\a1OEC\a1OEC\obj\Debug\netcoreapp2.0\a2OEC.csproj.CoreCompileInputs.cache
+I:\ASP.NET.MVC\Assignments\a1OEC\a1OEC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+I:\ASP.NET.MVC\Assignments\a1OEC\a1OEC\obj\Debug\netcoreapp2.0\a2OEC.AssemblyInfoInputs.cache
+I:\ASP.NET.MVC\Assignments\a1OEC\a1OEC\obj\Debug\netcoreapp2.0\a2OEC.AssemblyInfo.cs
+I:\ASP.NET.MVC\Assignments\a1OEC\a1OEC\obj\Debug\netcoreapp2.0\a2OEC.dll
+I:\ASP.NET.MVC\Assignments\a1OEC\a1OEC\obj\Debug\netcoreapp2.0\a2OEC.pdb
+I:\ASP.NET.MVC\Assignments\a1OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.deps.json
+I:\ASP.NET.MVC\Assignments\a1OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.runtimeconfig.json
+I:\ASP.NET.MVC\Assignments\a1OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.runtimeconfig.dev.json
+I:\ASP.NET.MVC\Assignments\a1OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.dll
+I:\ASP.NET.MVC\Assignments\a1OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.pdb
+I:\ASP.NET.MVC\Assignments\a1OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.csprojResolveAssemblyReference.cache
+I:\ASP.NET.MVC\Assignments\a1OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.csproj.CoreCompileInputs.cache
+I:\ASP.NET.MVC\Assignments\a1OEC\a2OEC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+I:\ASP.NET.MVC\Assignments\a1OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.AssemblyInfoInputs.cache
+I:\ASP.NET.MVC\Assignments\a1OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.AssemblyInfo.cs
+I:\ASP.NET.MVC\Assignments\a1OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.dll
+I:\ASP.NET.MVC\Assignments\a1OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.pdb
+I:\ASP.NET.MVC\Assignments\a2OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.deps.json
+I:\ASP.NET.MVC\Assignments\a2OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.runtimeconfig.json
+I:\ASP.NET.MVC\Assignments\a2OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.runtimeconfig.dev.json
+I:\ASP.NET.MVC\Assignments\a2OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.dll
+I:\ASP.NET.MVC\Assignments\a2OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.pdb
+I:\ASP.NET.MVC\Assignments\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.csproj.CoreCompileInputs.cache
+I:\ASP.NET.MVC\Assignments\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+I:\ASP.NET.MVC\Assignments\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.AssemblyInfoInputs.cache
+I:\ASP.NET.MVC\Assignments\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.AssemblyInfo.cs
+I:\ASP.NET.MVC\Assignments\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.dll
+I:\ASP.NET.MVC\Assignments\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.pdb
+I:\ASP.NET.MVC\Assignments\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.csprojResolveAssemblyReference.cache
+C:\Users\hscanlan\Desktop\a2OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.deps.json
+C:\Users\hscanlan\Desktop\a2OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.runtimeconfig.json
+C:\Users\hscanlan\Desktop\a2OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.runtimeconfig.dev.json
+C:\Users\hscanlan\Desktop\a2OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.dll
+C:\Users\hscanlan\Desktop\a2OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.pdb
+C:\Users\hscanlan\Desktop\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.csprojResolveAssemblyReference.cache
+C:\Users\hscanlan\Desktop\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.csproj.CoreCompileInputs.cache
+C:\Users\hscanlan\Desktop\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\hscanlan\Desktop\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.AssemblyInfoInputs.cache
+C:\Users\hscanlan\Desktop\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.AssemblyInfo.cs
+C:\Users\hscanlan\Desktop\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.dll
+C:\Users\hscanlan\Desktop\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.pdb
+C:\Users\JAY SHRI KRISHNA\Desktop\Conestoga\Semester 2\Microsoft Web Technology\a2OEC_fixed\a2OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.deps.json
+C:\Users\JAY SHRI KRISHNA\Desktop\Conestoga\Semester 2\Microsoft Web Technology\a2OEC_fixed\a2OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.runtimeconfig.json
+C:\Users\JAY SHRI KRISHNA\Desktop\Conestoga\Semester 2\Microsoft Web Technology\a2OEC_fixed\a2OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.runtimeconfig.dev.json
+C:\Users\JAY SHRI KRISHNA\Desktop\Conestoga\Semester 2\Microsoft Web Technology\a2OEC_fixed\a2OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.dll
+C:\Users\JAY SHRI KRISHNA\Desktop\Conestoga\Semester 2\Microsoft Web Technology\a2OEC_fixed\a2OEC\a2OEC\bin\Debug\netcoreapp2.0\a2OEC.pdb
+C:\Users\JAY SHRI KRISHNA\Desktop\Conestoga\Semester 2\Microsoft Web Technology\a2OEC_fixed\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.csprojResolveAssemblyReference.cache
+C:\Users\JAY SHRI KRISHNA\Desktop\Conestoga\Semester 2\Microsoft Web Technology\a2OEC_fixed\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.csproj.CoreCompileInputs.cache
+C:\Users\JAY SHRI KRISHNA\Desktop\Conestoga\Semester 2\Microsoft Web Technology\a2OEC_fixed\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.AssemblyInfoInputs.cache
+C:\Users\JAY SHRI KRISHNA\Desktop\Conestoga\Semester 2\Microsoft Web Technology\a2OEC_fixed\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.AssemblyInfo.cs
+C:\Users\JAY SHRI KRISHNA\Desktop\Conestoga\Semester 2\Microsoft Web Technology\a2OEC_fixed\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.dll
+C:\Users\JAY SHRI KRISHNA\Desktop\Conestoga\Semester 2\Microsoft Web Technology\a2OEC_fixed\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\a2OEC.pdb
+C:\Users\JAY SHRI KRISHNA\Desktop\Conestoga\Semester 2\Microsoft Web Technology\a2OEC_fixed\a2OEC\a2OEC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

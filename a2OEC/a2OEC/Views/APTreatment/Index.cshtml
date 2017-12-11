@@ -1,0 +1,68 @@
+﻿@model IEnumerable<a2OEC.Models.Treatment>
+
+@{
+    ViewData["Title"] = "Farm Name"+ViewData["farmname"];
+}
+
+<h2>@ViewData["farmname"]</h2>
+
+<p>
+    <a asp-action="Create" asp-route-farmname="@ViewData["farmname"]">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Moisture)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Yield)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Weight)
+                </th>
+            <th>
+                Fertilizer Name
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+             <a asp-controller="APTreatmentFertilizer" asp-action="Index" asp-route-id="@item.TreatmentId">   @Html.DisplayFor(modelItem => item.Name) </a>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Moisture)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Yield)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Weight)
+            </td>
+            <td>
+               @foreach(var a in item.TreatmentFertilizer)
+               {
+                   @a.FertilizerName
+
+               }
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.TreatmentId" asp-route-farmname="@ViewData["farmname"]">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.TreatmentId" asp-route-farmname="@ViewData["farmname"]">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.TreatmentId" asp-route-farmname="@ViewData["farmname"]">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div>
+  
+    @Html.ActionLink("Back to plots", "index", "a1Plot", null, new { id = ViewData["plotid"] })
+
+</div>

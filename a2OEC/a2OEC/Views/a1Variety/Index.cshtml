@@ -1,0 +1,41 @@
+﻿@model IEnumerable<a2OEC.Models.Variety>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Crop)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+       <a asp-controller="a1Plot" asp-action="Index" asp-route-id="@item.VarietyId" asp-route-searchcriteria="variety" asp-route-varietyname="@item.Name">  @Html.DisplayFor(modelItem => item.Name)</a>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Crop.CropId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.VarietyId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.VarietyId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.VarietyId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

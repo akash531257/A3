@@ -1,0 +1,44 @@
+﻿@model IEnumerable<a2OEC.Models.Crop>
+@{
+    ViewData["Title"] = "Index";
+}
+<h2>Index</h2>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Image)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-controller="a1Variety" asp-action="Index" asp-route-cropid="@item.CropId"
+                       asp-route-cropname="@item.Name">
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </a>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Image)
+                </td>
+                <td>
+                    <a asp-controller="a1Plot" asp-action="Index" asp-route-id="@item.CropId"
+                       asp-route-searchcriteria="crop">Show Plots</a> |
+                    <a asp-action="Edit" asp-route-id="@item.CropId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.CropId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.CropId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
